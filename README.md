@@ -1,5 +1,6 @@
 # AI Inventory, Risk Categorization, and Governance Gap Assessment
-<img width="1360" height="400" alt="banner" src="https://github.com/user-attachments/assets/03f852a0-419d-4be5-9f93-a915e09c9c2c" />
+<img width="1360" height="400" alt="banner (2)" src="https://github.com/user-attachments/assets/3973ca3a-c4b4-4968-bf2c-59833b24f89b" />
+
 
 
 A practical, five-phase approach to establishing an AI inventory, categorizing risk, assessing governance controls, and identifying governance gaps — mapped to the EU AI Act, ISO/IEC 42001, NIST AI RMF, UK AI Regulation Principles, and the OECD AI Principles.
