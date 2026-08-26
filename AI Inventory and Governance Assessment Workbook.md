@@ -1,8 +1,4 @@
-# AI Governance Portfolio Workbook 4 — AI Inventory and Governance Assessment
-
-## Read Me
-
-**Portfolio purpose:** A practical demonstration of AI inventory management, risk categorisation, governance control assessment, gap analysis, and executive reporting.
+# AI Inventory and Governance Assessment
 
 **Scope:** Six illustrative AI systems used by a fictional mid-sized organisation. Replace the sample entries with verified organisational data before operational use.
 
