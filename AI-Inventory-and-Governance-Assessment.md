@@ -1,7 +1,19 @@
 # AI Inventory and Governance Assessment
 
-**Portfolio purpose:** A practical demonstration of AI inventory management, risk categorisation, governance control assessment, gap analysis, and executive reporting.
+## Project Overview
 
+As organizations increasingly adopt Artificial Intelligence (AI) tools, maintaining visibility into AI usage and associated risks becomes essential.
+
+This project demonstrates how to establish an AI inventory, assess risks, evaluate governance controls, and identify governance gaps using internationally recognized AI governance frameworks. The goal is to create a practical approach for understanding and governing AI systems used within an organization.
+
+## Project Objectives
+
+- Identify AI systems currently in use
+- Categorize AI systems based on risk
+- Assess governance and oversight mechanisms
+- Identify governance gaps
+- Recommend improvement actions
+- Align findings with regulatory and industry frameworks
 **Scope:** Six illustrative AI systems used by a fictional mid-sized organisation. Replace the sample entries with verified organisational data before operational use.
 
 **Deliverables:**
